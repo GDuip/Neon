@@ -30,4 +30,6 @@ Powered by **[Doge Unblocker](https://github.com/DogeNetwork/v4/)**.
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/dogenetwork/v4)
 
 ### Discord
-[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/sWPHCdxCPU)
+Our Discord - **We currently do not have a Discord Server**
+
+Doge Unblocker Discord - **https://discord.gg/sWPHCdxCPU**
