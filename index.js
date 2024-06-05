@@ -35,9 +35,6 @@ app.get('/lessons', (req, res) => {
 app.get('/credits', (req, res) => {
   res.sendFile(path.join(__dirname, './static/credits.html'));
 });
-app.get('/partners', (req, res) => {
-  res.sendFile(path.join(__dirname, './static/partners.html'));
-});
 app.get("/worker.js", (req, res) => {
   request("https://cdn.surfdoge.pro/worker.js", (error, response, body) => {
     if (!error && response.statusCode === 200) {
@@ -70,9 +67,9 @@ server.on("upgrade", (req, socket, head) => {
 });
 
 server.on("listening", () => {
-  console.log(`Doge Unblocker @ Port 8000`);
+  console.log(`Neon is running on port 8000`);
 });
 
 server.listen({
-  port: 8000,
+  port: 8080,
 });

@@ -269,6 +269,7 @@ h2 {
   text-align: center;
   justify-content: center;
   font-size: 16px;
+  margin-left: 0;
 }
 
 #particles-js {

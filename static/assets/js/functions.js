@@ -119,8 +119,8 @@ function tabCloak() {
 }
 
 function disableTabCloak() {
-  var newTitle = "Doge | V4";
-  var newIcon = "/assets/img/doge.jpg";
+  var newTitle = "Neon";
+  var newIcon = "neon.png";
 
   localStorage.setItem("tabTitle", newTitle);
   localStorage.setItem("tabIcon", newIcon);
@@ -246,6 +246,6 @@ if (window.location.protocol === "http:") {
 }
 
 console.log(
-  "%cJoin our Discord! discord.gg/unblocking",
+  "%cJoin our Discord! discord.gg/",
   "color: cyan; font-size: 20px"
 );

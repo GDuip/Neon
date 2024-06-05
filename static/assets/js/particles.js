@@ -103,7 +103,7 @@
               size: 40,
               duration: 2,
               opacity: 8,
-              speed: 3,
+              speed: 2,
             },
             repulse: {
               distance: 200,
@@ -162,7 +162,7 @@
             random: true,
             anim: {
               enable: false,
-              speed: 4,
+              speed: 3,
               size_min: 0.3,
               sync: false,
             },
@@ -882,7 +882,7 @@
               size: 0,
               duration: 2,
               opacity: 0,
-              speed: 3,
+              speed: 2,
             },
             repulse: {
               distance: 400,

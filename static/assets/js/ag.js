@@ -12,7 +12,7 @@ function gpt() {
 }
 
 function nf() {
-  alert('This app is still in development.\nCheck discord.gg/unblocking for details.');
+  alert('This app is still in development.\nCheck discord.gg/ for details.');
 }
 
 function gemini() {
@@ -158,7 +158,7 @@ function cookieClicker() {
 }
 
 function rBowl() {
-  document.title = 'Doge | V4';
+  document.title = 'Neon';
   var cloakcheckScript = document.createElement("script");
   cloakcheckScript.src = "/assets/js/cloak.js";
   document.head.appendChild(cloakcheckScript);
